@@ -11,4 +11,4 @@ function changetoUpperCase(){
 }
 module.exports.trim=trim
 module.exports.changetoLowerCase=changetoLowerCase
-module.exports.changetoUpperCase=changetoUpperCase
+module.exports.changetoUpperCase=changetoUpperCase           
