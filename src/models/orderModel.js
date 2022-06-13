@@ -8,4 +8,4 @@ const orderSchema = new mongoose.Schema( {
     date: String
 }, { timestamps: true });
 
-module.exports = mongoose.model('MwOrder', orderSchema) //order
+module.exports = mongoose.model('myOrder', orderSchema) //order

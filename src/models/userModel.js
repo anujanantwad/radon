@@ -9,4 +9,4 @@ const userSchema = new mongoose.Schema( {
     isFreeAppUser: {type: Boolean, default: false}
 }, { timestamps: true });
 
-module.exports = mongoose.model('MwUser', userSchema) //users
+module.exports = mongoose.model('myUser', userSchema) //users
